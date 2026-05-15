@@ -4,4 +4,9 @@ Analysis scripts for the article
 **Jarmo Ritari, Kati Hyvärinen, Kirsi Jahnukainen, FinnGen, Jukka Partanen, Ilkka Helanterä, Timo Jahnukainen**
 _full reference_
 
+#### Scripts in `src/`:
+
++ `nn.R`
+Data preparation steps
+
 

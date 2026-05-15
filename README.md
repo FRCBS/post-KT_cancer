@@ -5,6 +5,6 @@
 J Ritari, K Hyvärinen, K Jahnukainen, FinnGen, J Partanen, I Helanterä, T Jahnukainen. **Pan-cancer polygenic risk score associates with cancer susceptibility following kidney transplantation** _JCI insight_
 
 #### `src/`:
-Data preparation and anlaysis scripts
+Data preparation and analysis scripts
 
 
